@@ -2,8 +2,8 @@ require_relative 'config/environment'
 
 class App < Sinatra::Base
 
-  get '/' do 
-    "learn
+  get '/' do
+    "learn"
   end
 
 end
